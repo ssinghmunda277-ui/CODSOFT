@@ -1,2 +1,2 @@
 # CODSOFT
-These are the solution of all tasks.
+This is the solutiom of tasks 1 .
