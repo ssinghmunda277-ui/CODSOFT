@@ -22,4 +22,4 @@ elif choice == '4':
         print("Error: Division by zero is not allowed.")
 
 else:
-    print("Invalid choice. Please select 1, 2, 3, or 4.")
+    print("Invalid choice.\nPlease select 1, 2, 3, or 4.")
